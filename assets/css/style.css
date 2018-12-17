@@ -1,0 +1,45 @@
+.crystal {
+    height: 230px;
+    width: 285px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#header {
+    text-align: center;
+    background-color: pink;
+    color: purple;
+    padding: 5px;
+}
+
+#comp {
+    background-color: lightcoral;
+    color: aquamarine;
+    font-size: 18pt;
+    width: 15%;
+    padding: 5px;
+    margin-top: 30px;
+
+}
+
+#points {
+    background-color: aqua;
+    color: hotpink;
+    width: 15%;
+    font-size: 18pt;
+    padding: 5px;
+    float: right;
+    margin-right: 30%;
+    
+}
+
+
+#user {
+    background-color: lavender;
+    color: blue;
+    font-size: 18pt;
+    width: 15%;
+    padding: 5px;
+    float: right;
+}

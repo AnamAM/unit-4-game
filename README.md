@@ -1,1 +1,3 @@
 # unit-4-game
+
+This Gem Value Game is a game where the user has to reach a certain score in order to win. The computer generates a random score with every reload on the page. There are 4 gems in the game that have random values between 1 and 12 which also have been generated through the computer. The user must click on the gems to each points in order to match the raw score. Once the user has done this, he or she earns a point. To restart the game, the user must refresh the page.
